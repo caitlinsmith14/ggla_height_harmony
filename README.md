@@ -11,7 +11,7 @@ The gestural analysis of stepwise height harmony in Nzebi referenced on our post
 
 ### Code Walkthrough
 
-This project introduces the Gestural Gradual Learning Algorithm (GGLA), an error-driven, online learning algorithm, and applies it to the task of learning derivationally opaque height harmony patterns. The code we use for our computational modeling of the learning of can be found in `ggla_height_harmony.py` above. Here, we will walk you through how to use this code.
+This project introduces the Gestural Gradual Learning Algorithm (GGLA), an error-driven online learning algorithm, and applies it to the task of learning derivationally opaque height harmony patterns. The code we use for computational modeling of the learning of height harmony can be found in `ggla_height_harmony.py` above. Here, we will walk you through how to use this code.
 
 **Check python version and install dependencies.** The code for the GGLA height harmony learner is written for use with python 3.8. It is likely compatible with some older versions of python 3, but we make no guarantees. The code uses several packages that are not included in the python standard library and must be installed by the user. These are: matplotlib (pip install), numpy (conda/pip install), and tqdm (pip install).
 
