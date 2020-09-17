@@ -2,7 +2,7 @@
 
 On this page, you'll find all of the supplementary materials for our [AMP 2020](https://babel.ucsc.edu/~amp2020/) submission:
 
-Smith, Caitlin, Charlie O'Hara (2020) [Learnability of Derivationally Opaque Patterns in the Gestural Harmony Model](https://pages.jh.edu/~csmit372/pdf/smithohara_amp2020_poster.pdf). Poster presented at the 2020 Annual Meeting on Phonology, Santa Cruz, CA (Online), September 2020.
+Smith, Caitlin, Charlie O'Hara (2020) [Learnability of Derivationally Opaque Patterns in the Gestural Harmony Model](https://padlet.com/AMP2020/posters3). Poster presented at the 2020 Annual Meeting on Phonology, Santa Cruz, CA (Online), September 2020.
 
 ### Background Reading
 
