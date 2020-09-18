@@ -1,0 +1,2 @@
+Var	map(a,i)	map(a,e)	map(a,E)	map(E,i)	map(E,e)	map(e,i)	Assim_Identical	Assim_Adjacent	Assim_Partial
+Weights	30	20	10	20	10	10	10	10	10

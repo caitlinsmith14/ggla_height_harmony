@@ -1,0 +1,2 @@
+Var	Assim_Identical	Assim_Adjacent	Assim_Partial	Ident_Partial	Ident_Adj	Ident_Ident
+Weights	50	50	50	1	1	1

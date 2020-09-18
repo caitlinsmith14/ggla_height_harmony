@@ -1,0 +1,17 @@
+Input	Output	O	map(a,i)	map(a,e)	map(a,E)	map(E,i)	map(E,e)	map(e,i)	Assim_Identical	Assim_Adjacent	Assim_Partial
+i-i	a-i	0	-1	0	0	0	0	0	-1	-1	-1
+i-i	eh-i	0	0	0	0	-1	0	0	-1	-1	0
+i-i	e-i	0	0	0	0	0	0	-1	-1	0	0
+i-i	i-i	-1	0	0	0	0	0	0	0	0	0
+e-i	a-i	0	0	-1	0	0	0	0	-1	-1	-1
+e-i	eh-i	0	0	0	0	0	-1	0	-1	-1	0
+e-i	e-i	0	0	0	0	0	0	0	-1	0	0
+e-i	i-i	-1	0	0	0	0	0	-1	0	0	0
+eh-i	a-i	0	0	0	-1	0	0	0	-1	-1	-1
+eh-i	eh-i	0	0	0	0	0	0	0	-1	-1	0
+eh-i	e-i	-1	0	0	0	0	-1	0	-1	0	0
+eh-i	i-i	0	0	0	0	-1	0	0	0	0	0
+a-i	a-i	0	0	0	0	0	0	0	-1	-1	-1
+a-i	eh-i	-1	0	0	-1	0	0	0	-1	-1	0
+a-i	e-i	0	0	-1	0	0	0	0	-1	0	0
+a-i	i-i	0	-1	0	0	0	0	0	0	0	0
