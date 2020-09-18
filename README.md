@@ -8,14 +8,13 @@ Smith, Caitlin, Charlie O'Hara (2020) [Learnability of Derivationally Opaque Pat
 
 The gestural analysis of stepwise height harmony in Nzebi referenced on our poster is spelled out in greater detail in the paper [Stepwise height harmony as partial transparency](https://pages.jh.edu/~csmit372/pdf/smith_nels50_paper.pdf) (to appear in the proceedings of NELS 50). More papers on the Gestural Harmony Model are available on [Caitlin Smith's website](https://pages.jh.edu/~csmit372/).
 
-
 ### Code Walkthrough
 
 This project introduces the Gestural Gradual Learning Algorithm (GGLA), an error-driven online learning algorithm, and applies it to the task of learning derivationally opaque height harmony patterns. The code we use for computational modeling of the learning of height harmony can be found in `ggla_height_harmony.py` above. Here, we will walk you through how to use this code.
 
 **Check python version and install dependencies.** The code for the GGLA height harmony learner is written for use with python 3.8. It is likely compatible with some older versions of python 3, but we make no guarantees. The code uses several packages that are not included in the python standard library and must be installed by the user. These are: `matplotlib` (pip install), `numpy` (conda/pip install), and `tqdm` (pip install).
 
-**Create a new model language from a harmony pattern file.** A pattern file should be a .json file containing a python dictionary specifying a model language's vowel inventory, how each vowel surfaces in a harmony-conditioning environment, and which vowels trigger harmony. Several sample .json files are included in this repo. Use the `Language` class to initialize a new model language object.
+**Create a new model language from a harmony pattern file.** A pattern file should be a .json file containing a python dictionary specifying a model language's vowel inventory, how each vowel surfaces in a harmony-conditioning environment, and which vowels trigger harmony. Several sample .json files are included in the `pattern_files` directory above. Use the `Language` class to initialize a new model language object.
 
 `>>> model_language = Language(new='stepwise_4.json')`
 
@@ -101,7 +100,7 @@ To see the trajectories of the learning of each phoneme's constriction degree ta
 
 ![](https://pages.jh.edu/~csmit372/pic/trajectories.png)
 
-**Save the model.** To save the model for inspection at another time, use the `save()` method. This creates a human-readable .json file containing a python dictionary with all of the model's parameters and results.
+**Save the model.** To save the model for inspection at another time, use the `save()` method. This creates a human-readable .json file containing a python dictionary with all of the model's parameters and results. Two sample model files are included in the `model_files` directory above.
 
 `>>> model_language.save()`
 
