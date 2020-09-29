@@ -54,7 +54,7 @@ If IDENT-ADJ is weighted sufficiently above the relevant markedness constraint(s
 
 #### Stepwise Patterns with \*MAP constraints:
 
-Another example of this type of constraint C comes from the family of \*MAP constraints (Zuraw 2007, White 2013, Hayes & White 2013).
+Another example of this type of constraint C comes from the family of \*MAP constraints (Zuraw 2007, White 2013, Hayes & White 2015).
 
 \*MAP(X,Y): Assign a violation mark if a segment X in the input surfaces as Y in the output.
 
