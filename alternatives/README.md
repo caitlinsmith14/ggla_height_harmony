@@ -103,7 +103,7 @@ IDENT[height]: Assign a violation mark for each output segment that has a corres
  | [e]   |       -1      | -1|     -7|
  | [a]   |               | -2|     -6|
 
- |/a/   | IDENT[height] | M |  |
+ |/e/   | IDENT[height] | M |  |
  |------|---------------|---|--|
  | [i]  |      -1       |   |-4|
  |→ [e] |               | -1|-3|
