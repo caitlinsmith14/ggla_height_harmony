@@ -1,12 +1,14 @@
 ## The Gestural Gradual Learning Algorithm: Height Harmony Edition
 
-On this page, you'll find all of the supplementary materials for our [AMP 2020](https://babel.ucsc.edu/~amp2020/) submission:
+On this page, you'll find all of the supplementary materials for the following submissions:
+
+Smith, Caitlin, Charlie O'Hara (2021) [Learnability of derivationally opaque processes in the Gestural Harmony Model](https://pages.jh.edu/~csmit372/pdf/smithohara_scil2021_paper.pdf). To appear in *Proceedings of the Society for Computation in Linguistics: Volume 4*.
 
 Smith, Caitlin, Charlie O'Hara (2020) [Learnability of Derivationally Opaque Patterns in the Gestural Harmony Model](https://pages.jh.edu/~csmit372/pdf/smithohara_amp2020_poster.pdf). Poster presented at the 2020 Annual Meeting on Phonology, Santa Cruz, CA (Online), September 2020.
 
 ### Background Reading
 
-The gestural analysis of stepwise height harmony in Nzebi referenced on our poster is spelled out in greater detail in the paper [Stepwise height harmony as partial transparency](https://pages.jh.edu/~csmit372/pdf/smith_nels50_paper.pdf) (to appear in the proceedings of NELS 50). More papers on the Gestural Harmony Model are available on [Caitlin Smith's website](https://pages.jh.edu/~csmit372/).
+The gestural analysis of stepwise height harmony in Nzebi referenced here is spelled out in greater detail in the paper [Stepwise height harmony as partial transparency](https://pages.jh.edu/~csmit372/pdf/smith_nels50_paper.pdf) (in the proceedings of NELS 50). More papers on the Gestural Harmony Model are available on [Caitlin Smith's website](https://pages.jh.edu/~csmit372/).
 
 ### Code Walkthrough
 
